@@ -376,4 +376,6 @@
     <migrationTask xmi:id="_Yhc0gMklEeeTRLABl_FJNw" id="org.talend.repository.model.migration.AutoUpdateRelationsMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_YUQEscklEeeTRLABl_FJNw" login="h.babraa@sheffield.ac.uk" firstName="Nomit" lastName="Babraa" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WTQOkMkrEeeTRLABl_FJNw" login="a.russell@sheffield.ac.uk" firstName="Andrew" lastName="Russell" type="DQ" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_WTQOkckrEeeTRLABl_FJNw" login="k.perera@sheffield.ac.uk" firstName="Kamala" lastName="Perera" type="DQ" additionnalData="{}"/>
 </xmi:XMI>
